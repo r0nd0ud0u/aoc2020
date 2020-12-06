@@ -2,6 +2,7 @@
 #include "day1.h"
 #include "day2.h"
 #include "day3.h"
+#include "day4.h"
 
 
 
@@ -15,6 +16,8 @@ int main()
     day3 day3;
     day3.JigglypuffSweetKiss1(3,1);
     day3.JigglypuffSweetKiss2();
+    day4 day4;
+    day4.JigglyPuffHyperVoice();
     return 0;
 }
 
