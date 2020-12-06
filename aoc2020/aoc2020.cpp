@@ -4,7 +4,7 @@
 #include "day3.h"
 #include "day4.h"
 #include "day5.h"
-
+#include "day6.h"
 
 
 int main()
@@ -18,9 +18,11 @@ int main()
     day3.JigglypuffSweetKiss1(3,1);
     day3.JigglypuffSweetKiss2();
     day4 day4;
-    day4.JigglyPuffHyperVoice();*/
+    day4.JigglyPuffHyperVoice();
     day5 day5;
-    day5.JigglypuffRest();
+    day5.JigglypuffRest();*/
+    day6 day6;
+    day6.JigglypuffEchoedVoice();
     return 0;
 }
 
