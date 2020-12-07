@@ -5,6 +5,7 @@
 #include "day4.h"
 #include "day5.h"
 #include "day6.h"
+#include "day7.h"
 
 
 int main()
@@ -20,9 +21,12 @@ int main()
     day4 day4;
     day4.JigglyPuffHyperVoice();
     day5 day5;
-    day5.JigglypuffRest();*/
-    day6 day6;
-    day6.JigglypuffEchoedVoice();
+    day5.JigglypuffRest();
+    day6 day6;  
+    day6.JigglypuffEchoedVoice();*/
+    day7 day7;
+    day7.JigglypuffSwallow();
+    day7.JigglypuffSwallow2();
     return 0;
 }
 
